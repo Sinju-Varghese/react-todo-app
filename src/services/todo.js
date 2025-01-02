@@ -10,6 +10,7 @@ export function getAll() {
             id: 1,
             text: 'Learn Javascript',
             completed: false
+            
         },
         {
             id: 2,
